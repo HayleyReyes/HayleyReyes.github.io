@@ -30,3 +30,14 @@ Credits:
 		jQuery (jquery.com)
 		Scrollex (github.com/ajlkn/jquery.scrollex)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+
+In order to update portfolio:
+-Create new repository utilizing UpdatedPortfolio for name
+-Make sure VS code is up to date, uploading all the files into the new repository
+-Unpublish current site, change name to "OutdatedPortfolio"
+-Rename UpdatedPortfolio as hayleyreyes.github.io, save
+-Go to pages, publish. Mess around with the buttons and be patient when hitting save. It sometimes takes a moment in order for it to publish
+
+
+
+Try to only do this one or two more times when things are finalized since the tasks have been seen to be a bit tedious;
